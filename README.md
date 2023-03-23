@@ -15,7 +15,6 @@ The data analysis will provide:
 
 ## Get Started
 1. Data Cleaning:
-
     - One-hot endcoing
     - SMOTE
 
