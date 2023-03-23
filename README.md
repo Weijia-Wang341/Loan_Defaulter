@@ -16,16 +16,16 @@ The data analysis will provide:
 ## Get Started
 1. Data Cleaning:
 
-⋅⋅- One-hot endcoing
-⋅⋅* SMOTE
+    - One-hot endcoing
+    - SMOTE
 
 2. Modeling:
-- Logistic Regression
-- Decision Trees
+    - Logistic Regression
+    - Decision Trees
 
 3. Model Evaluation:
-- Confusion Matrix
-- AUC-ROC Curve
+    - Confusion Matrix
+    - AUC-ROC Curve
 
 ## Contributors
 * Weijia Wang
