@@ -15,12 +15,12 @@ The data analysis will provide:
 
 ## Get Started
 1. Data Cleaning:
-    - One-hot endcoing
-    - SMOTE
-
+    - One-hot endcoing: The dataset contains both numerical and categorical columns. To convert categorical values into numerical values, apply *OneHotEncoder()* to columns such as 'Married_Single', 'House_Ownership', 'Car_Ownership', 'Profession', 'CITY', and 'STATE'.
+    - SMOTE: The dataset has imbalanced data of faulters and non-faulters. To improve the model's accuracy, balance the data using *SMOTE()* for oversampling.
+    
 2. Modeling:
     - Logistic Regression
-    - Decision Trees
+    - Random Forest
 
 3. Model Evaluation:
     - Confusion Matrix
